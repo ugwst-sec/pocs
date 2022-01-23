@@ -7,7 +7,7 @@
       <body xmlns="http://www.w3.org/1999/xhtml">
 	       <iframe src="https://ugwst.com/XSS-1.pdf"></iframe>
 	      <iframe sandbox="allow-modals allow-same-origin allow-scripts allow-popups allow-forms"  src="https://ugwst.com/XSS-1.pdf"></iframe>
-	 <iframe sandbox="allow-modals allow-same-origin allow-scripts allow-popups allow-forms"  src="https://ugwst.com/XSS-1.pdf"></iframe>
+	 <iframe sandbox="allow-modals allow-same-origin allow-scripts allow-popups allow-forms"  src="https://ugwst.com/XSS-1.pdf"></iframe>x
       </body>
     </foreignObject>
 	</g>
