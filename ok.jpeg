@@ -1,3 +1,23 @@
+HTTP/1.1 404 OK
+Content-Type: text/plain
+Connection: close
+x-matched-path: /_next/image
+Vary: Accept
+Content-Disposition: inline; filename="ok.bin"
+Accept-Ranges: bytes
+Date: Mon, 24 Jan 2022 23:42:28 GMT
+Content-Security-Policy: script-src 'none'; sandbox;
+Content-Length: 1359
+Cross-Origin-Resource-Policy: cross-origin
+Access-Control-Allow-Origin: *
+Age: 0
+Last-Modified: Mon, 24 Jan 2022 23:42:28 GMT
+Cache-Control: public, max-age=300
+x-vercel-cache: MISS
+server: Vercel
+x-vercel-id: fra1::pml44-1643067748476-b08deea60e17
+strict-transport-security: max-age=63072000
+
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
  "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
