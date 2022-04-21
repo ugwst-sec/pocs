@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+  	<svg xmlns="http://www.w3.org/2000/svg" width="60" height="30">
+    	<rect x="0" y="0" width="60" height="30" fill="white"></rect>
+    	<text x="10" y="24" font-size="20">Nöde</text>
+						 <foreignObject x="10" y="10" width="800" height="800">
+      <body xmlns="http://www.w3.org/1999/xhtml">
+		<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1"></meta>
+		</body>
+    </foreignObject>
+  	</svg>
